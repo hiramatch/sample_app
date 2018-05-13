@@ -9,6 +9,7 @@ class StaticPagesController < ApplicationController
   end
 
   def contact
+    hoge
   end
 
 end
