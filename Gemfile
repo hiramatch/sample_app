@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails',        '5.1.2'
+gem 'rails',        '5.2'
 gem 'bcrypt',         '3.1.11'
 gem 'faker',          '1.7.3'
 gem 'carrierwave',             '1.1.0'
@@ -39,4 +39,3 @@ end
 group :production do
   gem 'pg', '0.18.4'
 end
-
